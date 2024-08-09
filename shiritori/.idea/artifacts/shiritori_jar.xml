@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="shiritori:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shiritori_jar</output-path>
+    <root id="archive" name="shiritori.jar">
+      <element id="module-output" name="shiritori" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.json-chargebee-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

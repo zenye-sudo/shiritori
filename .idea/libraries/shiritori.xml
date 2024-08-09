@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shiritori">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shiritori/out/artifacts/shiritori_jar/shiritori.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
